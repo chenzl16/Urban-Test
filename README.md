@@ -22,13 +22,13 @@ This dataset is collected from Open-source Data Inventory for Anthropogenic CO2 
 This dataset is derived from the Environmental Protection Agency of the United States [3]. It is collected from air quality monitors and consists of the daily O3, SO2, NO2, CO, PM2.5, and PM10 information across the United States between 2018 and 2021. Please click [here](Data_Description/Air_Pollution/Readme.md) for more details about the dataset.
 
 ### 4. U.S. population characteristic dataset
-This dataset is derived from [4] and is obtained from American Community Survey (ACS), Earth Observation Group and OpenStreetMap. It provides both CBG-level and city-level poverty, health insurance, education, income Gini & light Gini, and built environment & racial segregation data from 2014 to 2023 across the 10 largest cities in the United States. Please click [here](Data_Description/Population/Readme.md) for more details about the dataset.
+This dataset is part of [4] and is obtained from American Community Survey (ACS), Earth Observation Group, and OpenStreetMap. It provides both CBG-level and city-level poverty, health insurance, education, income Gini & light Gini, and built environment & racial segregation data from 2014 to 2023 across the 10 largest cities in the United States. Please click [here](Data_Description/Population/Readme.md) for more details about the dataset.
 
 ### 5. U.S. visual semantics dataset
-This dataset is derived from [4] and provides semantic attributes processed from satellite remote sensing data. It depicts both CBG-level and city-level urban infrastructural information from 2014 to 2023 across the 10 largest cities in the United States. Please click [here](Data_Description/Visual_Semantics/Readme.md) for more details about the dataset.
+This dataset is part of [4] and provides semantic attributes processed from satellite remote sensing data. It depicts both CBG-level and city-level urban infrastructural information from 2014 to 2023 across the 10 largest cities in the United States. Please click [here](Data_Description/Visual_Semantics/Readme.md) for more details about the dataset.
 
 ### 6. U.S. basic geographical information dataset
-This dataset is derived from [4] and consists of basic geographical information of CBGs across the 10 largest cities in the United States between 2014 and 2021. It records the city, area, population, centroid, and boundary of the CBGs within each year. Please click [here](Data_Description/Basic_Geographic_Info/Readme.md) for more details about the dataset.
+This dataset is part of [4] and consists of basic geographical information of CBGs across the 10 largest cities in the United States between 2014 and 2021. It records the city, area, population, centroid, and boundary of the CBGs within each year. Please click [here](Data_Description/Basic_Geographic_Info/Readme.md) for more details about the dataset.
 
 The data entries of the above mentioned datasets are summarized as below:
 
@@ -36,7 +36,7 @@ The data entries of the above mentioned datasets are summarized as below:
 
 ### 7. England environment and health datasets
 
-This is a fine-grained and multi-sourced environment and health dataset [5] collected from cities in England. It records the health outcomes of citizens covering physical health (COVID-19 cases, asthma medication expenditure, etc.), mental health (psychological medication expenditure), and life expectancy estimations. It presents the corresponding environmental determinants from four perspectives, including basic statistics (population, area, etc.), behavioural environment (availability of tobacco, health-care services, etc.), built environment (road density, street view features, etc.), and natural environment (air quality, temperature, etc.). To reveal regional differences, this dataset extracts and integrates massive environment and health indicators from heterogeneous sources into two unified spatial scales, i.e., at the middle layer super output area (MSOA) and the city level, via big data processing and deep learning techniques.
+This is a fine-grained and multi-sourced environment and health dataset collected from cities in England [5]. It records the health outcomes of citizens covering physical health (COVID-19 cases, asthma medication expenditure, etc.), mental health (psychological medication expenditure), and life expectancy estimations. It presents the corresponding environmental determinants from four perspectives, including basic statistics (population, area, etc.), behavioural environment (availability of tobacco, health-care services, etc.), built environment (road density, street view features, etc.), and natural environment (air quality, temperature, etc.). To reveal regional differences, this dataset extracts and integrates massive environment and health indicators from heterogeneous sources into two unified spatial scales, i.e., at the middle layer super output area (MSOA) and the city level, via big data processing and deep learning techniques.
 
 A comprehensive data table that contains all the subsections is also provided, which is organized into a long table with columns as follows:
 | Column Name | Description | Example |
@@ -62,4 +62,3 @@ A comprehensive data table that contains all the subsections is also provided, w
 [4] Xi, Yanxin, et al. A satellite imagery dataset for long-term sustainable development in united states cities. Scientific data (2023).
 
 [5] Han, Zhenyu, et al. "Healthy Cities, A comprehensive dataset for environmental determinants of health in England cities." Scientific data 10.1 (2023): 165.
-
