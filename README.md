@@ -7,10 +7,10 @@ Please summarize the impression in a **one-page slide** and format your submissi
 
 Exemplar ideas of the impressions can be found [here](src/Exemplar_Ideas.md). 
 
-Here are downloadable [U.S. datasets](https://cloud.tsinghua.edu.cn/d/98a3d3ceb3e34333bf7f/) and [England datasets](https://github.com/0oshowero0/HealthyCitiesDataset). The vast majority of them originate from [Healthy Cities, A comprehensive dataset for environmental determinants of health in England cities](https://www.nature.com/articles/s41597-023-02060-y) and [A satellite imagery dataset for long-term sustainable development in united states cities](https://arxiv.org/abs/2308.00465) released in Nature Scientific Data paper (IF 9.8).
+Here are downloadable [U.S. datasets](https://cloud.tsinghua.edu.cn/d/98a3d3ceb3e34333bf7f/) and [England datasets](https://github.com/0oshowero0/HealthyCitiesDataset).
 
 ## Datasets
-We provide **6 city-scale datasets** collected from the largest U.S. cities and **1 sub-city scale multisourced dataset** collected from 1039 middle layer super output areas (MSOAs) of 29 England cities, which are briefly described as follows: 
+We provide **6 city-scale datasets** collected from the largest U.S. cities and **1 sub-city scale multisourced dataset** collected from 1039 middle layer super output areas (MSOAs) of 29 England cities. The vast majority of them originate from [Healthy Cities, A comprehensive dataset for environmental determinants of health in England cities](https://www.nature.com/articles/s41597-023-02060-y) and [A satellite imagery dataset for long-term sustainable development in united states cities](https://arxiv.org/abs/2308.00465) released in Nature Scientific Data paper (IF 9.8). The datasets are briefly described as follows: 
 
 ### 1. U.S. mobility dataset
 This dataset is extracted from SafeGraph [1]. It details the monthly population movement between CBGs within the 10 largest cities in the United States from 2018.1 to 2022.4. The movements were aggregated from anonymized mobile devices. Please click [here](Data_Description/Mobility/Readme.md) for more details about the dataset.
