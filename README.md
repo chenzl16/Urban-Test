@@ -59,6 +59,6 @@ A comprehensive data table that contains all the subsections is also provided, w
 
 [3] United States Environmental Protection Agency. Pre-Generated Data Files. https://aqs.epa.gov/aqsweb/airdata/download_files.html (2022).
 
-[4] Xi, Yanxin, et al. "A satellite imagery dataset for long-term sustainable development in united states cities." Scientific data (2023) https://arxiv.org/abs/2308.00465. 
+[4] Xi, Yanxin, et al. "A satellite imagery dataset for long-term sustainable development in united states cities." Scientific data (2023). https://arxiv.org/abs/2308.00465. 
 
-[5] Han, Zhenyu, et al. "Healthy Cities, A comprehensive dataset for environmental determinants of health in England cities." Scientific data 10.1 (2023): 165 https://www.nature.com/articles/s41597-023-02060-y.
+[5] Han, Zhenyu, et al. "Healthy Cities, A comprehensive dataset for environmental determinants of health in England cities." Scientific data 10.1 (2023): 165. https://www.nature.com/articles/s41597-023-02060-y.
