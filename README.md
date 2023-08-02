@@ -7,7 +7,7 @@ Please summarize the impression in a **one-page slide** and format your submissi
 
 Exemplar ideas of the impressions can be found [here](src/Exemplar_Ideas.md).
 
-Here are [U.S. datasets](https://cloud.tsinghua.edu.cn/d/98a3d3ceb3e34333bf7f/) and [England datasets](https://github.com/0oshowero0/HealthyCitiesDataset).
+Here are downloadable [U.S. datasets](https://cloud.tsinghua.edu.cn/d/98a3d3ceb3e34333bf7f/) and [England datasets](https://github.com/0oshowero0/HealthyCitiesDataset).
 
 ## Datasets
 We provide **6 city-scale datasets** collected from the largest U.S. cities and **1 sub-city scale multisourced dataset** collected from 1039 middle layer super output areas (MSOAs) of 29 England cities, which are briefly described as follows: 
