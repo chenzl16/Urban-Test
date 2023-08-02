@@ -5,9 +5,9 @@ Welcome to Urban Cup 2023 of the first Research Summit on Urban Science and Huma
 
 Please summarize the impression in a **one-page slide** and format your submission as [this template](Submission_Format.pptx). Each team should consist of **no more than 3 people**, with **at least one** team member present at the conference venue to **present the impression**. Please email all files to **rsushd2023@163.com by August 5th @ 8am (Beijing time, UTC/GMT+08:00)** to complete the submission. Late submissions will not be considered. 
 
-Exemplar ideas of the impressions can be found [here](src/Exemplar_Ideas.md).
+Exemplar ideas of the impressions can be found [here](src/Exemplar_Ideas.md). 
 
-Here are downloadable [U.S. datasets](https://cloud.tsinghua.edu.cn/d/98a3d3ceb3e34333bf7f/) and [England datasets](https://github.com/0oshowero0/HealthyCitiesDataset).
+Here are downloadable [U.S. datasets](https://cloud.tsinghua.edu.cn/d/98a3d3ceb3e34333bf7f/) and [England datasets](https://github.com/0oshowero0/HealthyCitiesDataset). The vast majority of them originate from [Healthy Cities, A comprehensive dataset for environmental determinants of health in England cities](https://www.nature.com/articles/s41597-023-02060-y) and [A satellite imagery dataset for long-term sustainable development in united states cities](https://arxiv.org/abs/2308.00465) released in Nature Scientific Data paper (IF 9.8).
 
 ## Datasets
 We provide **6 city-scale datasets** collected from the largest U.S. cities and **1 sub-city scale multisourced dataset** collected from 1039 middle layer super output areas (MSOAs) of 29 England cities, which are briefly described as follows: 
